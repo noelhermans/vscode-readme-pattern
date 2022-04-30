@@ -21,7 +21,7 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
+## 📝 Table of Contents (from Noel)
 
 - [About](#about)
 - [Demo / Working](#demo)

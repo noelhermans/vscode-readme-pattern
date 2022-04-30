@@ -39,7 +39,7 @@ export class ReadmeWriter {
   }
 
   private async getQuickPickItem() {
-    const items: string[] = ['Bot', 'Hackathon', 'Minimal', 'Standard'];
+    const items: string[] = ['Bot', 'Hackathon', 'Minimal', 'Standard', 'noel'];
     const selectedItem = await vscode.window.showQuickPick(items, {
       placeHolder: 'Select readme pattern that you want',
     });
